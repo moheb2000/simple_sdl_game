@@ -4,4 +4,4 @@ This is my simple game written in C and SDL library.
 
 ## Screenshots
 
-![Screenshot1](./sreenshots/screenshot1.png)
+![screenshot1](https://raw.githubusercontent.com/moheb2000/simple_sdl_game/main/screenshots/screenshot1.png)
